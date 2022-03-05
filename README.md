@@ -27,7 +27,8 @@ flowchart LR
 Details that will assist the reader in understanding why this decision has been proposed or implemented.
 
 ### Issue(s)
-*What issues motivated this proposal?
+
+What issues motivated this proposal?
 
 ### Solution(s)
 
